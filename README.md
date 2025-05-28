@@ -4,7 +4,10 @@ This repository contains implementations of various core components used in NLP 
 
 ## Implemented Components
 
-### Attention Mechanisms
-- Self-Attention: Computes attention scores between all pairs of tokens in a sequence, allowing the model to capture contextual relationships.
-- Multi-Head Attention: Extends self-attention by projecting inputs into multiple heads, enabling the model to learn different types of dependencies in parallel.
-- Masked Multi-Head Attention: A variant of multi-head attention used in autoregressive tasks, where future tokens are masked to prevent information leakage during training.
+### Attention Mechanisms ./attention_mechanism
+Attention mechanisms are a powerful technique in deep learning that allow models to focus on specific parts of the input data when making predictions. They have been widely used in various applications, including natural language processing and computer vision.
+
+### You can find implementations of the following attention mechanisms:
+- Self-Attention
+- Multi-Head Attention
+- Masked Multi-Head Attention
