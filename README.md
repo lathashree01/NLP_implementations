@@ -11,8 +11,15 @@ Attention mechanisms are a powerful technique in deep learning that allow models
 - Multi-Head Attention
 - Masked Multi-Head Attention
 
-  [More incoming...]
-
-## Classical NLP models
+## Classical NLP
 - TF-IDF
 - Unigram
+
+## Tasks
+- Sequence Classification
+
+## Common components
+- Tokenisation - BPE
+
+
+# Resources
